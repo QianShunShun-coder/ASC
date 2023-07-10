@@ -1,1 +1,1 @@
-# ASC
+code for *Radiomics and Deep Learning Models to Differentiate Lung Adenosquamous Carcinoma: a menticenter trial*.code for *Radiomics and Deep Learning Models to Differentiate Lung Adenosquamous Carcinoma: a multicenter trial*
